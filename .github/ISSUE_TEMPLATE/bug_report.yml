@@ -1,0 +1,15 @@
+name: 🐛 Bug Report / Доклад за проблем
+description: Report a glitch, crash, or UI bug in the mobile wrapper
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description / Описание на проблема
+      description: What happened? / Какво се случи?
+    validations:
+      required: true
+  - type: input
+    id: device-info
+    attributes:
+      label: Android Version & Device / Android версия и модел
+      placeholder: e.g., Android 14, Samsung Galaxy S23
