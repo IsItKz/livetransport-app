@@ -52,14 +52,14 @@ A native mobile wrapper for the [livetransport.eu](https://livetransport.eu) web
 
 Have a feature request or found a bug in the mobile app?
 
-* **App Issues & Feature Requests:** Open an issue on [GitHub Issues](../../issues/new/choose).
+* **App Issues & Feature Requests:** Open an issue [here](../../issues/new/choose).
 * **Transit Data / Map Issues:** For issues with vehicle locations, schedules, or map data, please contact [livetransport.eu](https://livetransport.eu).
 
 ---
 
 Имате идея за нова функция или открихте проблем в приложението?
 
-* **Докладване за проблем / Идея:** Отворете issue в [GitHub Issues](../../issues/new/choose).
+* **Докладване за проблем / Идея:** Отворете issue [тук](../../issues/new/choose).
 * **Проблеми с данните или картата:** За въпроси относно местоположение на превозни средства, разписания или данни на картата, моля свържете се с [livetransport.eu](https://livetransport.eu).
 
 ---
