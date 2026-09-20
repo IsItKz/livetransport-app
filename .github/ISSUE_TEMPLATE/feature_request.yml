@@ -1,0 +1,10 @@
+name: 💡 Feature Request / Идея за функция
+description: Suggest an improvement or new feature for the mobile app
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description / Описание
+      description: What would you like to see added or changed? / Какво бихте искали да бъде добавено?
+    validations:
+      required: true
