@@ -4,7 +4,7 @@
 
 ---
 
-## English
+## 🇬🇧 English
 
 A native mobile wrapper for the [livetransport.eu](https://livetransport.eu) web map, bringing real-time public transit tracking to a dedicated mobile app experience.
 
@@ -26,7 +26,7 @@ A native mobile wrapper for the [livetransport.eu](https://livetransport.eu) web
 
 ---
 
-## Български
+## 🇧🇬 Български
 
 Мобилно приложение (wrapper) за уеб картата [livetransport.eu](https://livetransport.eu) за следене на градския транспорт в реално време.
 
