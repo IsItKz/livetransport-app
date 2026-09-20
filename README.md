@@ -8,7 +8,7 @@
 
 A native mobile wrapper for the [livetransport.eu](https://livetransport.eu) web map, bringing real-time public transit tracking to a dedicated mobile app experience.
 
-> **Note:** This project is a native container/wrapper for the web service created and maintained by **Milen-Joan** ([@BPilot253](https://github.com/BPilot253. 
+> **Note:** This project is a native container/wrapper for the web service created and maintained by **Milen-Joan** ([@BPilot253](https://github.com/BPilot253)). 
 
 ### ✨ Features & Mobile Enhancements
 * **Dedicated Mobile Container:** Quick access without using a web browser tab.
