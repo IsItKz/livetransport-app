@@ -48,6 +48,22 @@ A native mobile wrapper for the [livetransport.eu](https://livetransport.eu) web
 
 ---
 
+## 💬 Feedback & Bug Reports / Обратна връзка и сигнали
+
+Have a feature request or found a bug in the mobile app?
+
+* **App Issues & Feature Requests:** Open an issue on [GitHub Issues](../../issues/new/choose).
+* **Transit Data / Map Issues:** For issues with vehicle locations, schedules, or map data, please contact [livetransport.eu](https://livetransport.eu).
+
+---
+
+Имате идея за нова функция или открихте проблем в приложението?
+
+* **Докладване за проблем / Идея:** Отворете issue в [GitHub Issues](../../issues/new/choose).
+* **Проблеми с данните или картата:** За въпроси относно местоположение на превозни средства, разписания или данни на картата, моля свържете се с [livetransport.eu](https://livetransport.eu).
+
+---
+
 ## 📄 License & Credits / Лиценз и заслуги
 
 * **Original Web Application & Data Integration / Оригинално уеб приложение:** **Milen-Joan / Милен-Йоан** ([livetransport.eu](https://livetransport.eu))
